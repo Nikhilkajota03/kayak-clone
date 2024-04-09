@@ -8,6 +8,9 @@ At Kaya user can find and book cheap airline tickets, hotel rooms, holidays and 
 **Frontend:**
 HTML, CSS, Javascript, Bootstrap
 
+**Live Link:**
+https://starlit-cocada-27c9c8.netlify.app
+
 
 
 
